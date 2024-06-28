@@ -1,0 +1,9 @@
+export { default as Home } from "./Home";
+export { default as Publics } from "./Publics";
+export { default as Login } from "./Login";
+export { default as FinallRegister } from "./FinallRegister";
+export { default as ForgotPassword } from "./ForgotPassword";
+export { default as ResetPassword } from "./ResetPassword";
+export { default as ProductDetailt } from "./ProductDetailt";
+export { default as ProductCategory } from "./ProductCategory";
+export { default as ProfilePublics } from "./ProfilePublics";
